@@ -1,0 +1,6 @@
+[submodule "workspace/limo_ros"]
+	path = workspace/limo_ros
+	url = git@github.com:agilexrobotics/limo_ros.git
+[submodule "workspace/ydlidar_sdk"]
+	path = third_party/ydlidar_sdk
+	url = git@github.com:YDLIDAR/YDLidar-SDK.git
